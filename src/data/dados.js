@@ -71,10 +71,10 @@ const varinhas = [
 ];
 
 const animais = [
-    { id: 1, nome: "Coruja", tipo: "Correio/Companhia" },
-    { id: 2, nome: "Gato", tipo: "Companhia" },
-    { id: 3, nome: "Sapo", tipo: "Companhia" },
-    { id: 4, nome: "Rato", tipo: "Companhia" }
+    { id: 1, nome: "Edwiges", tipo: "coruja" },
+    { id: 2, nome: "Bichento", tipo: "gato" },
+    { id: 3, nome: "Pígdêu", tipo: "coruja" },
+    { id: 4, nome: "Sem nome", tipo: "coruja" }
 ];
 
 const pocoes = [
